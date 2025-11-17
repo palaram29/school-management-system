@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / credentials
+.env
+secrets.json
+config.py
+
+# Streamlit
+.streamlit/
+
+# SQL Server backups
+*.bak
+*.mdf
+*.ldf
+
+# OS files
+.DS_Store
+Thumbs.db

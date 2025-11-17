@@ -47,7 +47,9 @@ A **Streamlit-based School Management System** with a **SQL Server backend** for
     "Trusted_Connection=yes;")
      
     
-  
+---
+
+
 ## Python file setup
 - Download the requirements
 - Run the file
